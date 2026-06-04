@@ -1,44 +1,78 @@
-# Luong Tuan Kiet (David) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:f97316,50:ef4444,100:111111&text=Luong%20Tuan%20Kiet&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Backend%20and%20Cloud%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="Luong Tuan Kiet banner" />
+</p>
 
-**Backend & Cloud Developer**
+<h1 align="center">
+  Hi there, I'm Kiet
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="wave" />
+</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://kietluong.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-f97316?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/kietluong18" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="mailto:luongtuankiet1801@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
 
----
+<br />
 
-### 👨‍💻 About Me
+I'm **Luong Tuan Kiet** — a Software Engineering who enjoys building clean backend systems, practical APIs, and cloud-native products.
 
-```typescript
-const david = {
-  role: "Software Engineering Student @ FPT University",
-  focus: ["Backend Architecture", "Cloud Infrastructure", "System Design"],
-  tools: [".NET 9", "AWS", "PostgreSQL", "Docker"],
-  hobbies: ["Playing Football ⚽", "Cheering for Real Madrid 🤍", "Tech Exploring 🚀"],
-```
+- 🎯 Currently focused on **backend architecture**, **cloud infrastructure**, and **system design**
+- 🛠️ Working mostly with **.NET**, **AWS**, **PostgreSQL**, **Docker**, and **TypeScript**
 
 ---
 
-### 📊 GitHub Overview
+## 🛠️ Technologies I Use
 
 <p align="left">
-  <a href="https://github.com/tuankiet18-dev">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=tuankiet18-dev&show_icons=true&bg_color=0d1117&hide_border=false&border_color=f97316&title_color=f97316&icon_color=00e5ff&text_color=ffffff&ring_color=00e5ff" />
-  </a>
-  <a href="https://github.com/tuankiet18-dev">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuankiet18-dev&layout=compact&bg_color=0d1117&hide_border=false&border_color=f97316&title_color=f97316&text_color=ffffff" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,go,ts,js,react&theme=dark" alt="Languages & Frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,redis" alt="Cloud & Infrastructure" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
 </p>
 
 ---
 
-_Built with precision and a cloud-first mindset._
+## 🏆 Certificates & Awards
+
+<table>
+  <thead>
+    <tr>
+      <th>🎖️ Certificate / Award</th>
+      <th>🏢 Issuer / Organizer</th>
+      <th>📅 Year</th>
+      <th>🔗 Proof</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AWS Fundamentals Specialization</td>
+      <td>Amazon Web Services (via Coursera)</td>
+      <td>2026</td>
+      <td><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/A2FT4N98RP7C">View Certificate</a></td>
+    </tr>
+    <tr>
+      <td>🥈 Semi-finalist &amp; Top 8 — THE FINNOVATIVE HACKATHON</td>
+      <td>THE FINNOVATIVE</td>
+      <td>2026</td>
+      <td><a href="https://github.com/tuankiet18-dev/Certificates/blob/main/Cert_Hackathon.png">View Certificate</a></td>
+    </tr>
+    <tr>
+      <td>🏅 Top 15 / 600+ participants — F-CODE TALENT 2024</td>
+      <td>FPT University (F-Code)</td>
+      <td>2024</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:111111,100:f97316&section=footer" alt="footer" />
+</p>
