@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://kietluong.vercel.app/" target="_blank">
+  <a href="https://tuankiet.pages.dev/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/kietluong18" target="_blank">
