@@ -66,7 +66,8 @@ I'm **Luong Tuan Kiet**, a Software Engineering student focused on backend devel
 
 | Award | Organization | Year | Proof |
 | --- | --- | --- | --- |
-| Semi-finalist — THE FINNOVATIVE HACKATHON | THE FINNOVATIVE | 2026 | [View certificate](https://github.com/tuankiet18-dev/Certificates/blob/main/Cert_Hackathon.png) |
+| Top 4 of 160 teams — IT Consultant Challenge 2026 | Netcompany & Code Mely | 2026 | [View project](https://github.com/tuankiet18/Nordic-Flow) |
+| Semi-finalist — THE FINNOVATIVE HACKATHON | THE FINNOVATIVE | 2026 | [View certificate](https://github.com/tuankiet18/Certificates/blob/main/Cert_Hackathon.png) |
 | Top 15 of 600+ participants — F-CODE TALENT | FPT University (F-Code) | 2024 | — |
 | Honorable Student of the Trimester — 5 consecutive terms | FPT University | 2024–2026 | — |
 
