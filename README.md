@@ -67,6 +67,7 @@ I'm **Luong Tuan Kiet**, a Software Engineering student focused on backend devel
 | Award | Organization | Year | Proof |
 | --- | --- | --- | --- |
 | Top 4 of 160 teams — IT Consultant Challenge 2026 | Netcompany & Code Mely | 2026 | [View project](https://github.com/tuankiet18/Nordic-Flow) |
+| Galactic Problem Solver — NASA Space Apps Challenge 2026 (FireCalendar) | NASA Space Apps Challenge, Ho Chi Minh City | 2026 | [View project](https://github.com/tuankiet18-dev/Harmonization-of-MODIS-and-VIIRS-Hot-Spots) · [View certificate](https://tuankiet.pages.dev/images/events/nasa-space-apps-2026/certificate.png) |
 | Semi-finalist — THE FINNOVATIVE HACKATHON | THE FINNOVATIVE | 2026 | [View certificate](https://github.com/tuankiet18/Certificates/blob/main/Cert_Hackathon.png) |
 | Top 15 of 600+ participants — F-CODE TALENT | FPT University (F-Code) | 2024 | — |
 | Honorable Student of the Trimester — 5 consecutive terms | FPT University | 2024–2026 | — |
